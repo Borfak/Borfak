@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artem Boichuk</h1>
 <h3 align="center">Self-taught front-end developer from Ukraine 🇺🇦</h3>
 
-- 🔭 I’m currently working on [Swetrix](swetrix.com)
-
 - 🌱 I’m currently learning **React, JS and TS**
 
 - 📫 How to reach me **borfak@protonmail.com**
